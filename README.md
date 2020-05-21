@@ -13,3 +13,7 @@ awesome resources for janet language: https://janet-lang.org/
 
 ## web
 [joy: the coast framework over janet](https://github.com/joy-framework/joy)
+
+## shell
+
+[Janetsh: a system shell that uses the Janet programming language for high level scripting](https://github.com/andrewchambers/janetsh)
