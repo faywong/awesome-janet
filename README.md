@@ -6,10 +6,12 @@ awesome resources for janet language: https://janet-lang.org/
 
 ## devtools
 
-### network repl
+### repl
 [socket-repl](https://github.com/sogaiu/janet-socket-repl)
 
 [A Janet Spork Client - Janet REPL interaction via Spork](https://github.com/sogaiu/a-janet-spork-client)
+
+[janet repl in neovim](https://github.com/Olical/conjure)
 
 ## web
 [joy: the coast framework over janet](https://github.com/joy-framework/joy)
